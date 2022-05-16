@@ -30,6 +30,5 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Movie Searcher Bot
     
-➥ Creator : [𝗕𝗹𝗶𝗻𝗱𝗲𝗿 𝗢𝗫](
-@Grand_boy_0)
+➥ Creator : [𝗕𝗹𝗶𝗻𝗱𝗲𝗿 𝗢𝗫](@Grand_boy_0)
 """
